@@ -1,0 +1,18 @@
+html{
+    font-size: x-large;
+    scroll-behavior: smooth;
+}
+body{
+    background-color: rgb(62, 61, 61);
+    color: whitesmoke;
+    
+}
+a{
+    color: blue;
+}
+a:visited{
+    color: blue;
+}
+a:hover, a:active{
+    color: red;
+}
